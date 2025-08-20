@@ -39,3 +39,4 @@ studentMap.set("103",{name:"nandhan",dept:"ece"});
 console.log("Student 102:",studentMap.get("102"));
 
 
+
